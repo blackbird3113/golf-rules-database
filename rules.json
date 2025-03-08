@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Regola 5.2 - Praticare sul Campo",
+    "description": "Un giocatore non può praticare sul campo prima di un giro stroke play..."
+  },
+  {
+    "id": 2,
+    "title": "Regola 10.2 - Uso degli Aiuti",
+    "description": "Un giocatore non può ricevere aiuti dal caddie durante l'allineamento..."
+  },
+  {
+    "id": 3,
+    "title": "Regola 14.3 - Drop della Palla",
+    "description": "Quando si droppa una palla, questa deve essere lasciata cadere da un'altezza minima..."
+  }
+]
